@@ -1,0 +1,27 @@
+body{
+    background-color: #262626;
+}
+.header_link{
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    h2{
+        color: aliceblue;
+    }
+}
+.header_loge2{
+    margin-left: 220px;
+    margin-top: 5%;
+    img{
+        gap: 20px;
+        margin-left: 30px;
+    }
+}
+.header_loge3{
+    margin-left: 240px;
+    margin-top: 50px;
+    h2{
+        color: aliceblue;
+    }
+}
